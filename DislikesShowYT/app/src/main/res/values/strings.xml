@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dislike Show</string>
+    <string name="dislikes_in_youtube">Dislikes in YouTube™</string>
+    <string name="paste">PASTE</string>
+    <string name="youtube_video_link_paste">Video link or Search title</string>
+    <string name="view">View</string>
+    <string name="open_youtube">Open YouTube</string>
+    <string name="add_youtube_video_link">Add YouTube video link</string>
+    <string name="App_ID">ca-app-pub-3494707665933635~5426916683</string>
+    <string name="InterstitialAd">ca-app-pub-3494707665933635/2668891404</string>
+    <string name="Banner_Ads_1">ca-app-pub-3494707665933635/9070648223</string>
+    <string name="dataUrl">https://script.google.com/macros/s/AKfycbwk6rxeze8NnDZa1vXTK-zbh8wWoRspWiF_8lNuK4KST__0cfNzSI5DHKiq5C3ll3A/exec</string>
+    <string name="APIKEY1">AIzaSyC2rTydvXNt_VQ_WmPIlDZKUpMAG9suUfk</string>
+    <string name="APIKEY2">AIzaSyAtqzdUUapsndlLUOxk1Kh-1Z1JWYXgxHE</string>
+    <string name="DislikeAPI">https://returnyoutubedislikeapi.com/votes?videoId=</string>
+    <string name="information">Information:- This app only collects the ID of a YT video from user and gets the stats such as Views, Likes and Dislikes. Since the official YT does not provides the Dislike counts anymore, Return YT Dislike API is used for the task. Due to server maintenance and other occurrences, the statistics in some countries may not match the official YT figures or may be some delay in updating the stats.</string>
+    <string name="_0">0</string>
+    <string name="extension">Extension</string>
+    <string name="dismiss">DISMISS</string>
+</resources>
